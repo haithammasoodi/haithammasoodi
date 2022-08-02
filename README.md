@@ -9,7 +9,7 @@
 
 ## 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 ```yaml
-- Pursuing 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 Engineering degree from Islamic University of Science and Technology (Kashmir).
+Pursuing 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 Engineering degree from Islamic University of Science and Technology (Kashmir).
 ```
 - 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
 ```yaml
